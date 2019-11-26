@@ -48,7 +48,8 @@ int main(int argc, char **argv){
 
     //En buf voy a ir guardando las lineas que lea
     char buf[17];
-    char minbuf[17];
+    char minbuf[10];
+    char minbuffinal[12];
     int indicemin;
 
     int minimo = 1000000; //cualquier numero de 6 digitos va a ser menor
@@ -63,7 +64,10 @@ int main(int argc, char **argv){
     }
     //Luego de esto tengo la linea que quiero sacar en el valor minbuf.
     //Se supone que esto imprime la linea minbuf
-    printf("\n%s", minbuf);
+    memcpy(minbuffinal, minbuf, sizeof(minbuffinal));
+    minbuffinal[10] = '\n';
+    minbuffinal[11] = 0;
+    printf("%s", minbuffinal);
     //Esto va a mover el puntero a la linea numero n
     fseek(in,5+(n-1)*17,SEEK_SET);
     //Lee la linea n y la guarda en buf

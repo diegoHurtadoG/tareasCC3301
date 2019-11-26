@@ -9,7 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="306b7de4-b806-466e-8e63-2029cdb158bd" name="Default Changelist" comment="" />
+    <list default="true" id="d718b48c-a2cf-4fb9-bc0e-23c2b4af5292" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,10 +19,10 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ProjectId" id="1RFzMgvgosgrZs5h1qS50cJ69OY" />
+  <component name="ProjectId" id="1RoNuWMWhhOknxJQ40ofgIzYA2g" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../T4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,20 +47,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="306b7de4-b806-466e-8e63-2029cdb158bd" name="Default Changelist" comment="" />
-      <created>1569277585071</created>
+      <changelist id="d718b48c-a2cf-4fb9-bc0e-23c2b4af5292" name="Default Changelist" comment="" />
+      <created>1570329711407</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569277585071</updated>
-      <workItem from="1569277587064" duration="1943000" />
-      <workItem from="1569368167069" duration="4925000" />
-      <workItem from="1569450759156" duration="7173000" />
-      <workItem from="1569551966339" duration="4816000" />
-      <workItem from="1569589372986" duration="660000" />
-      <workItem from="1569590810810" duration="696000" />
-      <workItem from="1569609927029" duration="817000" />
-      <workItem from="1570329581289" duration="130000" />
-      <workItem from="1571335890225" duration="607000" />
+      <updated>1570329711407</updated>
+      <workItem from="1570329713287" duration="647000" />
+      <workItem from="1570383710670" duration="9240000" />
+      <workItem from="1570478777152" duration="10239000" />
+      <workItem from="1570553396421" duration="7450000" />
+      <workItem from="1570980862106" duration="14000" />
+      <workItem from="1571335898822" duration="1198000" />
     </task>
     <servers />
   </component>
